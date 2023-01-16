@@ -319,3 +319,28 @@ main .work-section .project-container .work .project-info button:active {
   width: 80px;
   height: 80px;
 }
+
+.title-language{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  color: #344563;
+  text-align: center;
+  margin: 20px 0;
+
+}
+.list-language{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  list-style-type: none;
+}
+.list-language li{
+  padding: 5px 10px;
+  color: #36B37E;
+  background: rgb(232, 227, 227);
+  border-radius: 10%;
+  
+}
