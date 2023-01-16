@@ -336,6 +336,7 @@ main .work-section .project-container .work .project-info button:active {
   flex-direction: row;
   gap: 10px;
   list-style-type: none;
+  float: right;
 }
 .list-language li{
   padding: 5px 10px;
